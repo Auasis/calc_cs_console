@@ -1,0 +1,13 @@
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\bin\Debug\netcoreapp3.1\calc.exe
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\bin\Debug\netcoreapp3.1\calc.dll
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\bin\Debug\netcoreapp3.1\calc.pdb
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\obj\Debug\netcoreapp3.1\calc.csprojAssemblyReference.cache
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.CoreCompileInputs.cache
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\obj\Debug\netcoreapp3.1\calc.dll
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\obj\Debug\netcoreapp3.1\calc.pdb
+C:\Users\123\Documents\GitHub\calc_cs_console\calc\calc\obj\Debug\netcoreapp3.1\calc.genruntimeconfig.cache
